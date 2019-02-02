@@ -1,0 +1,23 @@
+{
+	"cf_path": "/home/mahdi/Courses/Network/95-f/PA1/course_page/Tester/script-runners/Tester/codes",
+	"judge_path": "/home/mahdi/Courses/Network/95-f/PA1/course_page/Tester/script-runners/Tester/judge",
+	"sleep_time": 2,
+	"partov_server": {
+		"ip": "213.233.169.80",
+		"port": 7890,
+		"iface": "lo",
+		"node_prefix": "client-",
+		"renew_server": false,
+		"map": "UDP_Hole_Punching"
+	},
+	"loggers": [
+		{
+			"type": "base.logger.PrettyLogger",
+			"output": "stdout"
+		},
+		{
+			"type": "base.logger.PlainLogger",
+			"output": "log.out"
+		}
+	]
+}

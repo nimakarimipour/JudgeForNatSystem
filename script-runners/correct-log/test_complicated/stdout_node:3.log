@@ -1,0 +1,5 @@
+new id 1 assigned to 200.200.100.3:2000
+new id 2 assigned to 200.200.100.3:2100
+new id 3 assigned to 200.200.100.3:2200
+2 wants info of node 3
+3 wants info of node 2
