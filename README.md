@@ -49,7 +49,7 @@ Your final grade is calculated using this formula:
 		grade(key) * 0.2 + grade(messaging) * 0.8
 
 If you have any problems getting it to work you can shhot a mail at the course's mailinglist or email me for a quicker response.
-parsoakhorsand91@gmail.com
+karimipour.nima@gmail.com
 
 There is probably an easter egg or two for those who seek it.
 Good luck !
